@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Xcode and Swift build output
+build/
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+
+# Editors
+.vscode/
+.antigravity/
+
+# Walkthroughs and decision notes stay out of the public repo
+docs/
